@@ -3,7 +3,7 @@ Text4Shell scanner for Burp Suite
 
 ![screenshot](screenshot.png)
 
-Detailed description can be found [in our blog post about this plugin][1].,
+Detailed description can be found [in our blog post about this plugin][1].
 
 Note about detection capabilities: this plugin will only supply the built-in
 active scanner with payloads, thus for optimal coverage vs. performance, you'll
