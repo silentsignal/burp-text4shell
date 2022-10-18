@@ -1,6 +1,10 @@
 Text4Shell scanner for Burp Suite
 ================================
 
+![screenshot](screenshot.png)
+
+Detailed description can be found [in our blog post about this plugin][1].,
+
 Note about detection capabilities: this plugin will only supply the built-in
 active scanner with payloads, thus for optimal coverage vs. performance, you'll
 have to configure your scan properly – just as with any other built-in or
@@ -31,3 +35,5 @@ License
 
 The whole project is available under the GNU General Public License v3.0,
 see `LICENSE.md`.
+
+[1]: https://blog.silentsignal.eu/2022/10/18/our-new-scanner-for-text4shell/
